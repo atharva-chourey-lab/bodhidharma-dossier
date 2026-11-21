@@ -1,0 +1,29 @@
+{
+  "title": "Who was Bodhidharma? A dated-witness stratigraphy and lineage-chart forensics",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Bodhidharma is treated here as a dated-witness problem: a meditation master who exists almost entirely inside Chinese records is examined by stratigraphy — witnesses ordered by their own dates, each motif assigned to its first dated appearance, and the lineage charts cross-dated node by node with the generational arithmetic shown. The result is a small historical kernel and a large, datable accretion. A real master from the western regions flourished c. 480–530, was present in Luoyang in 516–526, and was dead before 534; the earliest witness, Yang Xuanzhi (c. 547), calls him a Persian/Central Asian, the next biographical layers call him South Indian and disagree with each other on his caste and pedigree, and no Indian source attests the name Bodhidharma at all. The famous 527 arrival fails three independent tests — against the Luoyang sighting, against the death of Guṇabhadra in 468, and against its own text's Song Yun story — while the earlier Liu Song arrival, by the 470s at the latest, is sustainable at the price of a long life. Almost everything else in the received biography enters centuries later: the Emperor Wu dialogue first appears c. 758, Huike's self-severed arm is first attested epigraphically in 798 against Daoxuan's earlier account of an arm lost to bandits, the nine years at Shaolin are canonised in 1004, and the martial-arts link rests on a text of 1624. His supposed teacher Prajñātāra is absent from Tanlin, from Daoxuan and from the Lengjia Shizi Ji, is first attested in 801 in the Baolin Zhuan's 28-patriarch list, and stands at exactly the seam where an earlier list, the Fu Fazang Yinyuan Zhuan (472), had closed the transmission at Siṃha. Keywords: Bodhidharma; Chan; lineage; source stratigraphy; Prajñātāra; Laṅkāvatāra; Shaolin; hagiography",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Bodhidharma",
+    "Chan Buddhism",
+    "source stratigraphy",
+    "lineage charts"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/bodhidharma-dossier",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
